@@ -49,5 +49,5 @@ const jsonpFetch = (url, opts) => {
 	});
 };
 
-export default jsonpFetch;
-export { crossDomainFetch };
+export default crossDomainFetch;
+export { jsonpFetch };
