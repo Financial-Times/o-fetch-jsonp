@@ -1,5 +1,5 @@
 /* global describe, it */
-import jsonpFetch from '../main';
+import {jsonpFetch} from '../main';
 
 describe('JSONP Fetch', () => {
 
