@@ -2,6 +2,7 @@
 	"description": "Fetch API helper tool that fallbacks to JSONP",
 	"origamiVersion": 1,
 	"origamiType": "module",
+	"origamiCategory": "utilities",
 	"supportStatus": "active",
 	"support": "github.com/Financial-Times/o-fetch-jsonp/issues"
 }
