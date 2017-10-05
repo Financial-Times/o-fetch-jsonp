@@ -13,13 +13,11 @@ module.exports = function(config) {
 
 		// frameworks to use
 		// available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-		frameworks: ['mocha', 'chai-as-promised', 'chai'],
+		frameworks: ['mocha'],
 
 
 		plugins: [
 			'karma-mocha',
-			'karma-chai-as-promised',
-			'karma-chai',
 			'karma-phantomjs2-launcher',
 			'karma-webpack'
 		],
