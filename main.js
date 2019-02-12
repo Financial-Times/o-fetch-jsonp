@@ -9,7 +9,7 @@ const generateCallbackName = () => {
 
 const crossDomainFetch = ('withCredentials' in new XMLHttpRequest())
 	? fetch
-	: jsonpFetch
+	: jsonpFetch;
 
 const jsonpFetch = (url, opts) => {
 	const defaultOpts = {
