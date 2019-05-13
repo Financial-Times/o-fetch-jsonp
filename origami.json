@@ -1,5 +1,6 @@
 {
-	"description": "Fetch API helper tool that fallbacks to JSONP",
+	"description": "Client-side fetch wrapper that fallbacks to JSONP. This circumvents cross-domain issues involved with sending JSON data",
+	"keywords": [ "fetch", "JSON", "JSONP" ],
 	"origamiVersion": 1,
 	"origamiType": "module",
 	"origamiCategory": "utilities",
