@@ -1,3 +1,5 @@
+**o-fetch-jsonp is deprecated. Use the `fetch` [polyfill](http://polyfill.io/) and [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) instead.**
+
 # o-fetch-jsonp
 
 Client side fetch wrapper that fallbacks to JSONP
