@@ -4,7 +4,7 @@
 	"origamiVersion": 1,
 	"origamiType": "module",
 	"origamiCategory": "utilities",
-	"supportStatus": "deprecated",
+	"supportStatus": "dead",
 	"support": "github.com/Financial-Times/o-fetch-jsonp/issues",
 	"supportContact": {
 		"email": "origami.support@ft.com",
